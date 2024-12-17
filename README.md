@@ -1,1 +1,1 @@
-
+This code analyzes crime data using Python by leveraging libraries like Pandas, Matplotlib, Seaborn, and Plotly. The code loads a dataset from a CSV file, cleans and explores the data to identify patterns and trends. Various visualizations, such as bar charts, line graphs, and heatmaps, are created to better understand the distribution and frequency of crimes. The analysis provides insights into crime patterns over time or across locations, helping uncover useful trends in the data.

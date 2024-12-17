@@ -1,1 +1,1 @@
-Parkinson's disease is a progressive neurological disorder. Early detection is crucial for better treatment outcomes. In this project, multiple machine learning models were developed to predict Parkinson's disease using speech features. PCA was employed to reduce the feature dimensions and analyze its effect on prediction accuracy.
+
